@@ -1,4 +1,4 @@
-package com.jojos.proyectoipc; //pepe
+package com.jojos.proyectoipc; //pepardo
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
